@@ -7,3 +7,5 @@ Annual Recurring Revenue Analysis is a financial metric used by businesses, espe
 
 # Details on data columns
 ARR Details, Client Owner, Date, Measure , Summarize by Root Subscription
+
+![Power-BI-Dashboard](https://github.com/fathurrahmanyahyasatrio/Power-BI-Dashboard/assets/124481470/3692c51b-2331-415f-a1df-eba68543e2f9)
